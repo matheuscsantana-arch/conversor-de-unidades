@@ -1,2 +1,2 @@
-# Projetos-de-aprendizado-Python
-Este repositório contém projetos para desenvolver e aplicar meus conhecimentos na linguagem de programação Python
+# Conversor-de-unidades
+Este programa foi desenvolvido para aplicar meus aprendizados em Python em projeto real
