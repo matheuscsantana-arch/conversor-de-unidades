@@ -4,7 +4,7 @@ Este projeto é um script interativo em Python desenvolvido para converter diver
 
 ## 💻 Tecnologias
 
-- Python 3.14.2.
+- Python 3.10+.
 - Biblioteca os.
 
 ## ⚙️ Instalação
@@ -37,6 +37,24 @@ O programa oferece conversões precisas para as seguintes categorias:
 4. Insira o valor numérico. O sistema aceita tanto ponto quanto vírgula como separador decimal.
 5. O resultado será exibido imediatamente na unidade padrão do SI.
 6. Para encerrar, escolha a opção 8 - Sair no menu principal.
+
+## 💡 Exemplo de uso
+
+Após executar o programa, o usuário visualiza o menu principal com as opções de conversão:
+
+![Menu principal do conversor de unidades](assets/menu-principal.png)
+
+Selecionando a opção **1**, o usuário acessa a conversão de unidades de comprimento e informa a unidade desejada:
+
+![Escolha da unidade de comprimento](assets/escolha-unidade.png)
+
+Em seguida, o usuário informa o valor a ser convertido:
+
+![Entrada do valor a ser convertido](assets/entrada-valor.png)
+
+O programa exibe o resultado da conversão e retorna ao menu principal:
+
+![Resultado da conversão](assets/resultado-conversao.png)
 
 ## 🚀 Status do Projeto
 
