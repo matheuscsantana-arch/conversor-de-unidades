@@ -1,6 +1,6 @@
 # ⚖️ Conversor de Unidades Físicas
 
-Este projeto é um script interativo em Python desenvolvido para converter diversas unidades de medida físicas (comprimento, massa, tempo, velocidade, força, energia e potência) para o Sistema Internacional de Unidades (SI).
+Este projeto é um script interativo em Python desenvolvido para converter diversas unidades de medida físicas (comprimento, massa, tempo, velocidade, força, energia e potência) para o Sistema Internacional de Unidades (SI). Foi desenvolvido para praticar lógica de programação, menus interativos e tratamento de entrada de usuário.
 
 ## 💻 Tecnologias
 
@@ -16,6 +16,19 @@ Este projeto é um script interativo em Python desenvolvido para converter diver
 ```bash
 python Conversor_unidades.py
 ```
+## 🛠️ Funcionalidades
+O programa oferece conversões precisas para as seguintes categorias:
+
+| 🏗️ Categoria | 📏 Unidades Suportadas | 🎯 Saída (SI) |
+| :--- | :--- | :--- |
+| **Comprimento** | mm, cm, km, in, ft | Metros (m) |
+| **Massa** | g, lb | Quilogramas (kg) |
+| **Tempo** | h, min, ms | Segundos (s) |
+| **Velocidade** | km/h, mph | m/s |
+| **Força** | kgf, lbf | Newtons (N) |
+| **Energia** | BTU, cal | Joules (J) |
+| **Potência** | BTU/h, cv, hp | Watts (W) |
+
 ## 🕹️ Como usar
 
 1. Ao iniciar, o programa exibirá um Menu Principal com 7 categorias de conversão.
